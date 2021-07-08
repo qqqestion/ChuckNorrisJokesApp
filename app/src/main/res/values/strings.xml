@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HedghogTechTestCode</string>
+
+    <string name="error_server">Server error.</string>
+    <string name="error_network">No internet connection.</string>
+    <string name="error_number_format">Wrong number format.</string>
+
+    <string name="btn_title_reload">Reload</string>
+    <string name="et_hint_count">Count</string>
+</resources>
