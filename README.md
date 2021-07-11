@@ -16,7 +16,7 @@ I used a free [API](http://www.icndb.com/) of Chuck Norris Jokes.
 It's REST API and can be used without any API keys. 
 
 ## Architecture
-In this app, I following Clean Architecture principles 
+In this app, I was following Clean Architecture principles.
 
 ## Libraries / Frameworks
 * [Architecture](https://developer.android.com/topic/libraries/architecture) - a collection of libraries that help you
